@@ -12,4 +12,4 @@ In this repo you'll find :
 
 The report is divided into three parts : deseasonizing, SARIMA calibration, prediction. 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/afiliot/Time-series-calibration/branch/pred15.png)
