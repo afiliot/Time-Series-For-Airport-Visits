@@ -4,11 +4,12 @@ This project is part of my second year training at ENSAE ParisTech (Ecole Nation
 
 In this repo you'll find :
 
-| Contents  | 
-| ------------- | 
-| The pdf projet  | 
-| The R code  |
-| The dataset  | 
+| Contents  | Label |
+| ------------- | ------------- | 
+| The pdf projet  | FILIOT_DREVETON_RAPPORT.pdf |
+| The R code  | code_R_FILIOT_DREVETON.R |
+| The dataset  | valeurs_mensuelles.csv |
+| R environments | RData files |
 
 The report is divided into three parts : deseasonizing, SARIMA calibration, prediction. 
 
